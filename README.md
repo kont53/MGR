@@ -1,2 +1,0 @@
-# MGR
-Cyber Security
